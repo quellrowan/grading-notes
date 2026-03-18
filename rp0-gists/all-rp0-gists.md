@@ -12,7 +12,7 @@
 | Dodge, Jack | 49/60 | [dodge-jack-requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/dodge-jack-requirement-prioritization.md) |
 | Anderson, Abe (Video Game Topic) | 46/60 | [anderson-abe-video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/anderson-abe-video-game-subjective-experience.md) |
 | Falcon, Jade | 53/60 | [falcon-jade.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/falcon-jade.md) |
-| Smith, Caleb | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+| Smith, Caleb | 54/60 | [smith-caleb.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/smith-caleb.md) |
 
 ## Class Summary
 
@@ -44,6 +44,7 @@ The strongest submissions did three things well:
 - Keum, Jangho
 
 #### Solid middle
+- Smith, Caleb
 - Falcon, Jade
 - Yepez, Jacob
 - Sanchez, Sebastian
@@ -58,21 +59,18 @@ As the course moves into the next iteration, the main opportunity is narrowing. 
 - to “this is the specific requirements tension I want to study.”
 
 ### Missing / Unreadable Attachments
-One student submission remains unreadable from the provided attachments:
-- Smith, Caleb
-
-This student should be revisited once the actual proposal content is available.
+All student proposals are now represented in the current set.
 
 ## Score Summary
 
 ### Scored submissions
-- Count: 8
+- Count: 9
 - Highest score: 58/60
 - Lowest score: 46/60
-- Average score: 52.5/60
+- Average score: 52.7/60
 
 ### By rough band
 - 55–60: 3 submissions
-- 50–54: 3 submissions
+- 50–54: 4 submissions
 - 45–49: 2 submissions
-- Unscored due to unreadable attachments: 1 submission
+- Unscored due to unreadable attachments: 0 submissions
