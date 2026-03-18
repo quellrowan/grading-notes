@@ -1,5 +1,19 @@
 # RP-0 Gists — Combined Review File
 
+## Review Index
+
+| Student / Topic | Rough Score | Link |
+|---|---:|---|
+| Benjamin Hanson | 58/60 | [benjamin-hanson.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/benjamin-hanson.md) |
+| Ruben Mathews | 56/60 | [ruben-mathews.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/ruben-mathews.md) |
+| Jangho Keum | 55/60 | [jangho-keum.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jangho-keum.md) |
+| Jacob Yepez | 52/60 | [jacob-yepez.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jacob-yepez.md) |
+| UAV / DOD Embedded Systems Topic | 51/60 | [uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/uav-dod-embedded-systems.md) |
+| Requirement Prioritization Topic | 49/60 | [requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/requirement-prioritization.md) |
+| Video Game Subjective Experience Topic | 46/60 | [video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/video-game-subjective-experience.md) |
+| Trinity Jade Falcon | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+| Caleb Smith | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+
 ## Class Overview
 
 ### Overall Impression
@@ -281,3 +295,19 @@ Encourage the student to pick one central tension, such as:
 
 ### One-Line Summary
 A meaningful and researchable topic with strong course relevance; the main next step is sharpening the central requirements question.
+
+---
+
+## Score Summary
+
+### Scored submissions
+- Count: 7
+- Highest score: 58/60
+- Lowest score: 46/60
+- Average score: 52.4/60
+
+### By rough band
+- 55–60: 3 submissions
+- 50–54: 2 submissions
+- 45–49: 2 submissions
+- Unscored due to unreadable attachments: 2 submissions
