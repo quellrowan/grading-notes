@@ -8,7 +8,7 @@
 | Mathews, Ruben | 56/60 | [mathews-ruben.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/mathews-ruben.md) |
 | Keum, Jangho | 55/60 | [keum-jangho.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/keum-jangho.md) |
 | Yepez, Jacob | 52/60 | [yepez-jacob.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/yepez-jacob.md) |
-| UAV / DOD Embedded Systems Topic | 51/60 | [uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/uav-dod-embedded-systems.md) |
+| Sanchez | 51/60 | [sanchez-uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/sanchez-uav-dod-embedded-systems.md) |
 | Requirement Prioritization Topic | 49/60 | [requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/requirement-prioritization.md) |
 | Video Game Subjective Experience Topic | 46/60 | [video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/video-game-subjective-experience.md) |
 | Falcon, Trinity Jade | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
@@ -45,7 +45,7 @@ The strongest submissions did three things well:
 
 #### Solid middle
 - Yepez, Jacob
-- DOD UAV embedded systems topic
+- Sanchez
 - Requirement prioritization topic
 
 #### Viable but more underdeveloped
