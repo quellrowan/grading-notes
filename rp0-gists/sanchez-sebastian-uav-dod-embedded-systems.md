@@ -1,4 +1,4 @@
-# Sanchez — RP-0 Gist
+# Sanchez, Sebastian — RP-0 Gist
 
 ## Quick Read
 Serious and feasible topic with a legitimate requirements engineering foundation. Strong enough, but still somewhat broad and domain-heavy.

@@ -8,7 +8,7 @@
 | Mathews, Ruben | 56/60 | [mathews-ruben.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/mathews-ruben.md) |
 | Keum, Jangho | 55/60 | [keum-jangho.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/keum-jangho.md) |
 | Yepez, Jacob | 52/60 | [yepez-jacob.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/yepez-jacob.md) |
-| Sanchez | 51/60 | [sanchez-uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/sanchez-uav-dod-embedded-systems.md) |
+| Sanchez, Sebastian | 51/60 | [sanchez-sebastian-uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/sanchez-sebastian-uav-dod-embedded-systems.md) |
 | Dodge, Jack | 49/60 | [dodge-jack-requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/dodge-jack-requirement-prioritization.md) |
 | Anderson, Abe (Video Game Topic) | 46/60 | [anderson-abe-video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/anderson-abe-video-game-subjective-experience.md) |
 | Falcon, Trinity Jade | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
@@ -45,7 +45,7 @@ The strongest submissions did three things well:
 
 #### Solid middle
 - Yepez, Jacob
-- Sanchez
+- Sanchez, Sebastian
 - Dodge, Jack
 
 #### Viable but more underdeveloped
