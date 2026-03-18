@@ -11,7 +11,7 @@
 | Sanchez, Sebastian | 51/60 | [sanchez-sebastian-uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/sanchez-sebastian-uav-dod-embedded-systems.md) |
 | Dodge, Jack | 49/60 | [dodge-jack-requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/dodge-jack-requirement-prioritization.md) |
 | Anderson, Abe (Video Game Topic) | 46/60 | [anderson-abe-video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/anderson-abe-video-game-subjective-experience.md) |
-| Falcon, Trinity Jade | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+| Falcon, Jade | 53/60 | [falcon-jade.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/falcon-jade.md) |
 | Smith, Caleb | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
 
 ## Class Summary
@@ -44,6 +44,7 @@ The strongest submissions did three things well:
 - Keum, Jangho
 
 #### Solid middle
+- Falcon, Jade
 - Yepez, Jacob
 - Sanchez, Sebastian
 - Dodge, Jack
@@ -57,22 +58,21 @@ As the course moves into the next iteration, the main opportunity is narrowing. 
 - to “this is the specific requirements tension I want to study.”
 
 ### Missing / Unreadable Attachments
-Two student submissions appeared only as Canvas wrapper pages in the provided attachments rather than readable proposal text:
-- Falcon, Trinity Jade
+One student submission remains unreadable from the provided attachments:
 - Smith, Caleb
 
-Those students should be revisited once the actual proposal content is available.
+This student should be revisited once the actual proposal content is available.
 
 ## Score Summary
 
 ### Scored submissions
-- Count: 7
+- Count: 8
 - Highest score: 58/60
 - Lowest score: 46/60
-- Average score: 52.4/60
+- Average score: 52.5/60
 
 ### By rough band
 - 55–60: 3 submissions
-- 50–54: 2 submissions
+- 50–54: 3 submissions
 - 45–49: 2 submissions
-- Unscored due to unreadable attachments: 2 submissions
+- Unscored due to unreadable attachments: 1 submission
