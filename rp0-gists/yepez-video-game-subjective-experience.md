@@ -1,4 +1,4 @@
-# Video Game Subjective Experience Topic — RP-0 Gist
+# Yepez, Jacob — RP-0 Gist (Video Game Topic)
 
 ## Quick Read
 Interesting and viable topic with clear student interest, but one of the more underdeveloped pitches in the set.

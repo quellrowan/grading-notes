@@ -10,7 +10,7 @@
 | Yepez, Jacob | 52/60 | [yepez-jacob.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/yepez-jacob.md) |
 | Sanchez | 51/60 | [sanchez-uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/sanchez-uav-dod-embedded-systems.md) |
 | Requirement Prioritization Topic | 49/60 | [requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/requirement-prioritization.md) |
-| Video Game Subjective Experience Topic | 46/60 | [video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/video-game-subjective-experience.md) |
+| Yepez, Jacob (Video Game Topic) | 46/60 | [yepez-video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/yepez-video-game-subjective-experience.md) |
 | Falcon, Trinity Jade | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
 | Smith, Caleb | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
 
@@ -49,7 +49,7 @@ The strongest submissions did three things well:
 - Requirement prioritization topic
 
 #### Viable but more underdeveloped
-- Video game subjective experience topic
+- Yepez, Jacob (video game topic)
 
 ### Class-Level Coaching Note
 As the course moves into the next iteration, the main opportunity is narrowing. Most students already have viable topic areas. The next step is to turn those topic areas into sharper problem statements and clearer research questions. In particular, students should move from:
