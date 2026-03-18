@@ -4,15 +4,15 @@
 
 | Student / Topic | Rough Score | Link |
 |---|---:|---|
-| Benjamin Hanson | 58/60 | [benjamin-hanson.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/benjamin-hanson.md) |
-| Ruben Mathews | 56/60 | [ruben-mathews.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/ruben-mathews.md) |
-| Jangho Keum | 55/60 | [jangho-keum.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jangho-keum.md) |
-| Jacob Yepez | 52/60 | [jacob-yepez.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jacob-yepez.md) |
+| Hanson, Benjamin | 58/60 | [benjamin-hanson.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/benjamin-hanson.md) |
+| Mathews, Ruben | 56/60 | [ruben-mathews.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/ruben-mathews.md) |
+| Keum, Jangho | 55/60 | [jangho-keum.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jangho-keum.md) |
+| Yepez, Jacob | 52/60 | [jacob-yepez.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jacob-yepez.md) |
 | UAV / DOD Embedded Systems Topic | 51/60 | [uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/uav-dod-embedded-systems.md) |
 | Requirement Prioritization Topic | 49/60 | [requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/requirement-prioritization.md) |
 | Video Game Subjective Experience Topic | 46/60 | [video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/video-game-subjective-experience.md) |
-| Trinity Jade Falcon | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
-| Caleb Smith | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+| Falcon, Trinity Jade | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
+| Smith, Caleb | — | [missing-submissions-note.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/missing-submissions-note.md) |
 
 ## Class Overview
 
@@ -39,12 +39,12 @@ The strongest submissions did three things well:
 
 ### High-Level Ranking Bands
 #### Top tier
-- Benjamin Hanson
-- Ruben Mathews
-- Jangho Keum
+- Hanson, Benjamin
+- Mathews, Ruben
+- Keum, Jangho
 
 #### Solid middle
-- Jacob Yepez
+- Yepez, Jacob
 - DOD UAV embedded systems topic
 - Requirement prioritization topic
 
@@ -58,14 +58,14 @@ As the course moves into the next iteration, the main opportunity is narrowing. 
 
 ### Missing / Unreadable Attachments
 Two student submissions appeared only as Canvas wrapper pages in the provided attachments rather than readable proposal text:
-- Trinity Jade Falcon
-- Caleb Smith
+- Falcon, Trinity Jade
+- Smith, Caleb
 
 Those students should be revisited once the actual proposal content is available.
 
 ---
 
-## Benjamin Hanson
+## Hanson, Benjamin
 
 ### Quick Read
 One of the strongest proposals in the set. Clear, ambitious, and unusually well-developed for an RP-0 while still rooted in a genuinely interesting requirements question.
@@ -99,7 +99,7 @@ Excellent pitch: specific, original enough, strongly connected to requirements e
 
 ---
 
-## Ruben Mathews
+## Mathews, Ruben
 
 ### Quick Read
 Very strong proposal. Thoughtful, mature, and clearly grounded in a real requirements engineering tension around LLM behavior, trust, and acceptable performance.
@@ -132,7 +132,7 @@ A strong, well-reasoned pitch with clear relevance to modern requirements engine
 
 ---
 
-## Jangho Keum
+## Keum, Jangho
 
 ### Quick Read
 Very strong proposal with a concrete real-world case, clear stakeholder conflict, and obvious misuse-case relevance.
@@ -165,7 +165,7 @@ A compelling and researchable pitch with strong course fit, especially around st
 
 ---
 
-## Jacob Yepez
+## Yepez, Jacob
 
 ### Quick Read
 Promising proposal with clear enthusiasm and a legitimate requirements engineering angle. Stronger than average, though still broader and more exploratory than the top tier submissions.
