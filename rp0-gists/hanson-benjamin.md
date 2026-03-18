@@ -1,59 +1,61 @@
 # Hanson, Benjamin — RP-0 Gist
 
 ## Quick Read
-One of the strongest proposals in the set. Clear, ambitious, and unusually well-developed for an RP-0 while still rooted in a genuinely interesting requirements question.
+One of the stronger proposals in the set. The central idea is genuinely interesting, and it has a clearer conceptual hook than most of the other submissions.
 
 ## Topic
 Prompting as a requirements specification; applying requirements engineering and validation ideas to prompt engineering and LLM reliability.
 
 ## Why It Works
-- Identifies a specific and timely problem: prompts blur the line between specification and execution.
-- Frames the issue as a real requirements problem rather than hype about AI.
-- Connects strongly to course ideas: ambiguity, validation, misuse cases, prioritization, goals/tradeoffs.
-- Already proposes a plausible comparative study design.
-- Research question is concrete enough to evolve into a serious project.
+- The proposal identifies a real problem rather than just a trendy area.
+- It treats prompts as a requirements problem, not just an AI tool problem.
+- It connects naturally to course ideas such as ambiguity, validation, incompleteness, and misuse.
+- It already gestures toward a plausible empirical direction.
 
 ## Risks / Watchouts
-- Slight risk of being a little too ambitious for the course timeline if the student tries to do too much at once.
-- Could become method-heavy or tool-heavy if not narrowed early.
-- May need help choosing one main question rather than several connected sub-threads.
+- There are several good ideas in here at once, and that creates a scope problem.
+- The project could easily become too broad if it tries to cover ambiguity, validation, misuse, prioritization, and output drift all together.
+- It needs one central question rather than a cluster of related questions.
 
 ## Coaching Direction
-Encourage this student to keep the topic, but narrow scope early:
-- choose one core question
-- define what “improved output consistency” means
-- keep the final project manageable and not over-engineered
+The next step is not to broaden the idea further. It is to choose the most interesting slice of it and develop that carefully.
 
 ## Rough Score Impression
 58/60
 
 ## One-Line Summary
-Excellent pitch: specific, original enough, strongly connected to requirements engineering, and already pointing toward a feasible study.
+A strong proposal with a real conceptual hook, but it will only stay strong if the scope is narrowed early.
 
 ## Research Guidance Packet
 
-### Stronger Instructor Comment
-This is one of the strongest pitches in the set because it identifies a real conceptual shift: prompts increasingly function as both natural-language specifications and executable instructions. That is a genuinely interesting requirements problem, not just an AI trend topic. The main risk now is scope. Right now the proposal contains several strong ideas at once—ambiguity, validation, misuse, prioritization, and output drift—and it will become much stronger if you choose one central question and build the project around that instead of trying to solve prompt engineering in general.
+### Instructor Comment
+This is one of the stronger proposals in the set. The central idea is genuinely interesting: treating prompts as a kind of requirements artifact rather than just as ad hoc instructions. That gives the project a real conceptual hook, and it also connects clearly to concerns we have already discussed in requirements engineering—ambiguity, validation, incompleteness, and failure under interpretation.
 
-### Promising Directions to Suggest
-- Compare naive prompts against prompts structured with explicit requirements constraints.
-- Focus specifically on ambiguity reduction rather than every prompt-quality dimension.
-- Study whether formal prompt structure improves consistency, correctness, or constraint adherence.
-- Frame hallucination or drift as a specification-quality problem rather than only a model problem.
+What works especially well here is that the proposal does not stop at “AI is interesting.” It actually identifies a requirements problem: if prompts increasingly function as both specification and execution, then we need better ways to reason about their quality. That is a worthwhile direction.
+
+The main thing I would push on is scope. Right now there are several good ideas packed together here: ambiguity, validation, misuse, prioritization, output drift, and consistency. Any one of those could support a strong project, but trying to do all of them at once would make the work diffuse. The next step is not to broaden this idea further; it is to choose the most interesting slice of it and develop that well.
+
+If you narrow this carefully, this could become a very strong project.
+
+### Directions to Suggest
+- focus on whether requirements-style prompt structure reduces ambiguity or output drift
+- compare naive prompts with more explicitly constrained prompts
+- define one quality criterion clearly—consistency, correctness, adherence to constraints, or interpretability—and study that
+- treat prompt failure as a specification problem rather than only a model-performance problem
 
 ### Scite Search Suggestions
-- prompt engineering requirements engineering
-- prompt quality ambiguity large language models
-- requirements specification for LLM systems
-- evaluating prompt consistency LLM
-- structured prompts versus natural prompts empirical study
-- prompt validation software engineering
+- prompt engineering and requirements engineering
+- prompt ambiguity in large language models
+- structured prompts versus natural prompts
+- specifying behavior in generative AI systems
+- validation or evaluation of prompt quality
+- reproducibility and consistency in LLM outputs
 
 ### Useful Kinds of Articles
 - empirical studies comparing prompt structures
 - papers on prompt quality and reproducibility
-- software engineering papers on specifying AI behavior
+- software engineering work on specifying AI behavior
 - work on ambiguity, structured natural language, or requirements quality metrics
 
 ### Concrete Next-Step Question
-Do you most want to study **ambiguity reduction**, **output consistency**, or **validation of prompt quality**? Pick one, because that choice should drive the whole project.
+Which is more interesting to you: ambiguity reduction, output consistency, or validation of prompt quality? Pick one, because that choice should shape the whole project.

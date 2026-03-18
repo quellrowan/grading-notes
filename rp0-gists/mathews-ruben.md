@@ -1,44 +1,45 @@
 # Mathews, Ruben — RP-0 Gist
 
 ## Quick Read
-Very strong proposal. Thoughtful, mature, and clearly grounded in a real requirements engineering tension around LLM behavior, trust, and acceptable performance.
+A thoughtful and promising proposal. The idea is strong because it takes seriously the mismatch between traditional software expectations and LLM behavior.
 
 ## Topic
 How requirements should be written for LLM-based systems that are useful but not fully predictable.
 
 ## Why It Works
-- Strong articulation of the core curiosity: what does “correct enough” mean for variable-output systems?
-- Treats hallucination, trust, and boundaries as requirements issues rather than purely model defects.
-- Good awareness of stakeholder needs, human review, safety, and validation.
-- Course connection feels natural, not forced.
-- Research direction is broad enough to explore but specific enough to refine.
+- The proposal asks a real question rather than simply naming a popular area.
+- It treats trust, hallucination, and boundaries as requirements issues.
+- The connection to course ideas is clear and natural.
+- There is already a plausible path toward a stronger research question.
 
 ## Risks / Watchouts
-- Topic could sprawl if it tries to address every quality attribute at once.
-- May need help selecting a narrower slice of LLM systems or one specific trust-related requirement dimension.
+- The topic could sprawl very easily.
+- If it tries to address every quality attribute at once, it will become too broad.
+- It needs a sharper center: one requirement dimension, one context, or one class of failure.
 
 ## Coaching Direction
-Encourage the student to keep the topic and narrow by context, such as:
-- one application domain
-- one trust-related quality attribute
-- one contrast between low-risk and high-risk systems
+The strongest next move would be to narrow this to one clearer lens—trust, human oversight, confidence signaling, grounding, or validation.
 
 ## Rough Score Impression
 56/60
 
 ## One-Line Summary
-A strong, well-reasoned pitch with clear relevance to modern requirements engineering and good potential for refinement.
+A strong idea with real substance, but it needs a more definite center to become a focused project.
 
 ## Research Guidance Packet
 
-### Stronger Instructor Comment
-This is a thoughtful and promising pitch because it takes seriously the mismatch between traditional software expectations and LLM behavior. The proposal is strongest when it asks what “correct enough” means for systems whose outputs are variable, persuasive, and not fully predictable. The main challenge now is narrowing the project so it does not become a broad meditation on “AI trust” in general. To become a strong research project, it needs one sharper lens: a particular quality attribute, risk context, or class of failures.
+### Instructor Comment
+This is a thoughtful and promising pitch because it takes seriously the mismatch between traditional software expectations and LLM behavior. The proposal is strongest when it asks what “correct enough” means for systems whose outputs are variable, persuasive, and not fully predictable. That is a real requirements question.
 
-### Promising Directions to Suggest
-- Focus on one requirement dimension such as grounding, transparency, confidence signaling, or human override.
-- Compare low-risk versus high-risk LLM use contexts.
-- Study how misuse cases for LLM systems differ from misuse cases in traditional software.
-- Explore how acceptable behavior should be specified when outputs vary.
+The main challenge now is narrowing the project so it does not become a broad discussion of “AI trust” in general. Right now, there are several possible centers here: trust, grounding, transparency, confidence signaling, human override, misuse, and validation. Any of those could lead to a worthwhile project, but not all of them at once.
+
+To become a strong project, this needs one sharper lens: a particular quality attribute, a particular kind of failure, or a particular use context. Once that is chosen, the whole proposal will become much clearer.
+
+### Directions to Suggest
+- focus on one requirement dimension such as grounding, transparency, confidence signaling, or human override
+- compare low-risk and high-risk LLM use contexts
+- study how misuse cases for LLM systems differ from misuse cases in traditional software
+- explore how acceptable behavior should be specified when outputs vary
 
 ### Scite Search Suggestions
 - requirements engineering for large language models
@@ -49,10 +50,10 @@ This is a thoughtful and promising pitch because it takes seriously the mismatch
 - misuse cases LLM systems
 
 ### Useful Kinds of Articles
-- software engineering papers on trustworthy AI requirements
+- software engineering work on trustworthy AI requirements
 - human-AI interaction papers on trust and overreliance
-- work on safety cases, human-in-the-loop, or confidence calibration
+- papers on safety cases, human-in-the-loop systems, or confidence calibration
 - empirical studies on failure modes in generative systems
 
 ### Concrete Next-Step Question
-Which matters more to you: **how to specify trustworthy behavior**, or **how to validate that a variable-output system meets those expectations**? That distinction could sharpen the whole project.
+Which matters more to you: how to specify trustworthy behavior, or how to validate that a variable-output system meets those expectations? That distinction would sharpen the project quickly.

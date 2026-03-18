@@ -1,44 +1,45 @@
 # Yepez, Jacob — RP-0 Gist
 
 ## Quick Read
-Promising proposal with clear enthusiasm and a legitimate requirements engineering angle. Stronger than average, though still broader and more exploratory than the top tier submissions.
+A promising proposal with real enthusiasm behind it. The idea is interesting, but it is still broad enough that it could drift into general game design talk if it is not narrowed soon.
 
 ## Topic
 Requirements engineering for video games, especially how subjective player experiences such as fun, challenge, and immersion can be translated into measurable requirements.
 
 ## Why It Works
-- Strong personal engagement with the topic.
-- Good explanation of why game systems create unusual requirements challenges.
-- Includes concrete game examples rather than speaking only in abstractions.
-- Connects well to course ideas such as tradeoffs, validation, misuse cases, and experience goals.
+- The student clearly cares about the topic.
+- The proposal understands that games create requirements problems that go beyond straightforward functional behavior.
+- The examples help ground the discussion.
+- There is a real question here about how to handle subjective experience in requirements work.
 
 ## Risks / Watchouts
-- Still broad at the level of “requirements for games” rather than one sharply bounded research question.
-- Could drift into general game design discussion rather than a requirements-focused study.
-- May need help distinguishing subjective design goals from researchable requirements questions.
+- The topic is still broad.
+- It could easily slide into general commentary about games rather than a researchable requirements question.
+- It needs a more definite center: one experience dimension, one kind of evidence, or one kind of failure.
 
 ## Coaching Direction
-Encourage narrowing toward one more specific angle, such as:
-- measurable proxies for fun or immersion
-- validating experience-oriented requirements
-- requirements failures in games that launched poorly
+The next step is to narrow this toward one sharper question: how to specify player experience, how to validate it, or how to identify failures when games miss those goals.
 
 ## Rough Score Impression
 52/60
 
 ## One-Line Summary
-A good and engaging pitch with real potential; the next step is narrowing from a broad domain into a sharper requirements question.
+A good and genuinely interesting idea, but it needs a sharper center to become a strong project rather than a broad topic area.
 
 ## Research Guidance Packet
 
-### Stronger Instructor Comment
-This is a promising topic because the student clearly has real interest in games and is already thinking about the gap between functional requirements and player experience. The proposal is strongest when it asks how subjective outcomes like fun, immersion, or challenge might be translated into something designers can actually specify and validate. Right now, though, the topic is still broad and at risk of drifting into general game design commentary. The next step is to identify one clearer question, one narrower experience dimension, or one kind of requirements failure worth studying.
+### Instructor Comment
+This is a promising topic because the student clearly has real interest in games and is already thinking about the gap between functional requirements and player experience. The proposal is strongest when it asks how subjective outcomes like fun, immersion, or challenge might be translated into something designers can actually specify and validate.
 
-### Promising Directions to Suggest
-- Focus on one subjective goal such as fun, immersion, challenge, or reward pacing.
-- Study how telemetry or playtesting can serve as evidence for experience-oriented requirements.
-- Compare successful and failed games through a requirements lens.
-- Explore the gap between experience goals and measurable proxies.
+That is the right problem. The issue is that the topic is still broad and could easily drift into general game design commentary instead of a more focused requirements question. To become a stronger project, it needs one clearer center: one experience dimension, one validation problem, or one kind of requirements failure worth studying.
+
+If this is narrowed well, it could become a very interesting project because it sits in a space where traditional requirements language often starts to feel inadequate.
+
+### Directions to Suggest
+- focus on one subjective goal such as fun, immersion, challenge, or reward pacing
+- study how telemetry or playtesting can serve as evidence for experience-oriented requirements
+- compare successful and failed games through a requirements lens
+- explore the gap between experience goals and measurable proxies
 
 ### Scite Search Suggestions
 - game requirements engineering player experience
@@ -46,13 +47,13 @@ This is a promising topic because the student clearly has real interest in games
 - game user research immersion challenge validation
 - telemetry validation player experience games
 - affective requirements software engineering
-- requirements for serious games or entertainment software
+- requirements for entertainment software
 
 ### Useful Kinds of Articles
 - game UX and player experience research
-- requirements engineering papers on emotional or experiential goals
+- requirements engineering work on emotional or experiential goals
 - telemetry and analytics papers in game design
-- postmortem or empirical studies of game launch failures
+- empirical or postmortem studies of game launch failures
 
 ### Concrete Next-Step Question
-Do you want to study **how to specify player experience**, or **how to validate whether a game achieved that experience**? That distinction would sharpen the proposal considerably.
+Do you want to study how to specify player experience, or how to validate whether a game actually achieved that experience? That distinction would sharpen the project considerably.

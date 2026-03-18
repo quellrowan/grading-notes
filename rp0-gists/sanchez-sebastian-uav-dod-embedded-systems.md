@@ -1,44 +1,45 @@
 # Sanchez, Sebastian — RP-0 Gist
 
 ## Quick Read
-Serious and feasible topic with a legitimate requirements engineering foundation. Strong enough, but still somewhat broad and domain-heavy.
+A serious topic with a legitimate requirements angle. The proposal is workable, but it needs a sharper center so it does not become too broad or too domain-heavy.
 
 ## Topic
 Requirements engineering for embedded systems in DOD UAV applications, especially where safety, security, and real-time constraints conflict.
 
 ## Why It Works
-- Clear relevance to safety-critical systems and embedded software.
-- Research questions are visible and plausible.
-- Good connection to goals, tradeoffs, misuse cases, prioritization, and validation.
-- The student already recognizes feasibility constraints and the need to rely on public sources.
+- The proposal is grounded in a domain where requirements really matter.
+- It identifies genuine tradeoffs rather than just naming a technical area.
+- There is a clear connection to course ideas such as tradeoffs, validation, misuse, and prioritization.
+- The student already seems aware of feasibility limits.
 
 ## Risks / Watchouts
-- Could become too broad or too centered on the application domain instead of a requirements problem.
-- May drift toward military systems discussion rather than one focused RE question.
-- Needs careful narrowing so the project stays manageable and not overly diffuse.
+- The topic could become too broad very quickly.
+- It could drift into general discussion of military UAV systems rather than a specific requirements problem.
+- It needs one clearer question to keep the project manageable.
 
 ## Coaching Direction
-Encourage the student to pick one central tension, such as:
-- safety vs. security tradeoffs
-- validation in unpredictable operating environments
-- requirements failures in publicly documented UAV cases
+The strongest next move would be to choose one central tension and stay with it: safety versus security, validation under uncertainty, or requirement gaps in public failure cases.
 
 ## Rough Score Impression
 51/60
 
 ## One-Line Summary
-A meaningful and researchable topic with strong course relevance; the main next step is sharpening the central requirements question.
+A meaningful topic with real potential, but it needs a sharper requirements question at the center.
 
 ## Research Guidance Packet
 
-### Stronger Instructor Comment
-This is a serious and meaningful topic with clear connections to requirements engineering in safety-critical systems. The proposal is strongest when it focuses on competing constraints—real-time performance, safety, and security—and how those tradeoffs are handled in a demanding domain. The main challenge is that the topic can easily become too broad or too domain-heavy. To become a stronger research project, it needs one sharper requirements question rather than a broad survey of UAV systems in military settings.
+### Instructor Comment
+This is a serious and meaningful topic with clear connections to requirements engineering in safety-critical systems. The proposal is strongest when it focuses on competing constraints—real-time performance, safety, and security—and how those tradeoffs are handled in a demanding domain.
 
-### Promising Directions to Suggest
-- Focus on safety versus security tradeoffs.
-- Study validation challenges in unpredictable operating environments.
-- Examine publicly documented failures or requirement gaps in UAV-related systems.
-- Compare frameworks used in safety-critical embedded systems.
+The main challenge is that the topic can easily become too broad or too domain-heavy. If the project stays at the level of “requirements for military UAVs,” it will be difficult to do anything precise with it. To become a stronger project, it needs one sharper requirements question rather than a broad survey of UAV systems in this space.
+
+The core idea is good. The next step is simply to tighten it.
+
+### Directions to Suggest
+- focus on safety versus security tradeoffs
+- study validation challenges in unpredictable operating environments
+- examine publicly documented failures or requirement gaps in UAV-related systems
+- compare methods used in safety-critical embedded systems
 
 ### Scite Search Suggestions
 - requirements engineering UAV embedded systems
@@ -50,9 +51,9 @@ This is a serious and meaningful topic with clear connections to requirements en
 
 ### Useful Kinds of Articles
 - safety-critical systems engineering papers
-- embedded systems validation and verification research
+- embedded systems validation and verification work
 - tradeoff analysis in security/performance/safety literature
 - publicly available UAV or autonomous systems case studies
 
 ### Concrete Next-Step Question
-Do you want to study **how conflicting constraints are prioritized**, or **how teams validate systems when those constraints collide in the real world**? Either could work, but they lead to different projects.
+Do you want to study how conflicting constraints are prioritized, or how teams validate systems when those constraints collide in practice? Either could work, but they lead to different projects.
