@@ -1,4 +1,4 @@
-# Requirement Prioritization Topic — RP-0 Gist
+# Dodge, Jack — RP-0 Gist
 
 ## Quick Read
 Solid, valid topic with clear relevance to software projects and requirements engineering. The main issue is not quality so much as distinctiveness and specificity.
