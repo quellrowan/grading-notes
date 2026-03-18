@@ -4,10 +4,10 @@
 
 | Student / Topic | Rough Score | Link |
 |---|---:|---|
-| Hanson, Benjamin | 58/60 | [benjamin-hanson.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/benjamin-hanson.md) |
-| Mathews, Ruben | 56/60 | [ruben-mathews.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/ruben-mathews.md) |
-| Keum, Jangho | 55/60 | [jangho-keum.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jangho-keum.md) |
-| Yepez, Jacob | 52/60 | [jacob-yepez.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/jacob-yepez.md) |
+| Hanson, Benjamin | 58/60 | [hanson-benjamin.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/hanson-benjamin.md) |
+| Mathews, Ruben | 56/60 | [mathews-ruben.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/mathews-ruben.md) |
+| Keum, Jangho | 55/60 | [keum-jangho.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/keum-jangho.md) |
+| Yepez, Jacob | 52/60 | [yepez-jacob.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/yepez-jacob.md) |
 | UAV / DOD Embedded Systems Topic | 51/60 | [uav-dod-embedded-systems.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/uav-dod-embedded-systems.md) |
 | Requirement Prioritization Topic | 49/60 | [requirement-prioritization.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/requirement-prioritization.md) |
 | Video Game Subjective Experience Topic | 46/60 | [video-game-subjective-experience.md](https://github.com/quellrowan/grading-notes/blob/main/rp0-gists/video-game-subjective-experience.md) |
