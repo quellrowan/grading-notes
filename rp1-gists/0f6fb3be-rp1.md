@@ -1,6 +1,6 @@
 # RP-1 Feedback
 
-**Score: 101/120**
+**Score: 109/120**
 
 ## Overall
 This is a solid RP-1 with a clear topic and a meaningful software/requirements engineering angle. The strongest part of the proposal is that it does not treat hallucination only as a model-quality issue, but instead reframes it as a problem that may also reflect **missing or under-specified requirements**. That is a productive direction and a good fit for the course.

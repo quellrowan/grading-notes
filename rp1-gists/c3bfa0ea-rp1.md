@@ -1,6 +1,6 @@
 # RP-1 Feedback
 
-**Score: 89/120**
+**Score: 100/120**
 
 ## Overall
 This is an interesting topic, and your enthusiasm for it definitely comes through. There is a real and worthwhile requirements engineering problem somewhere in this space: how developers specify and validate intended player experience in systems where success depends not only on correct functionality, but on sustained engagement, perceived challenge, and player motivation over time.

@@ -1,6 +1,6 @@
 # RP-1 Feedback
 
-**Score: 106/120**
+**Score: 113/120**
 
 ## Overall
 This is a solid RP-1. The most important improvement from the earlier version is that the topic is now much better framed as a **systems/requirements problem** rather than as a topic primarily about dog training or behavior in the abstract. That reframing helps a great deal. The proposal now has a clearer center: behavior-guidance systems simplify complex and variable real-world behavior into generalized instructions, and that simplification relies on assumptions that may not hold across contexts.
