@@ -1,6 +1,6 @@
 # RP-1 Peer Review Feedback
 
-**Score: 109/120**
+**Score: 113/120**
 
 ## Overall
 This is a strong review. It is concise, well structured, and clearly focused on the most important mid-stage issues in the proposal. You accurately identify the strengths of the project, but you also do a good job naming where the paper still needs clarification, especially around method, foreseeability, and the difference between true requirements failure and deliberate product tradeoff.

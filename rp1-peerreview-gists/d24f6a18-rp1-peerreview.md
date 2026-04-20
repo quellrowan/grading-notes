@@ -1,6 +1,6 @@
 # RP-1 Peer Review Feedback
 
-**Score: 106/120**
+**Score: 110/120**
 
 ## Overall
 This is a good, solid review. You clearly understood the proposal, and your comments focus on the right kinds of issues: scope, methodology, and what still needs to be defined before the project can become a stronger final proposal. The review is constructive and useful, and it stays focused on helping the author improve rather than simply evaluating the topic.

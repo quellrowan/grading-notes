@@ -1,6 +1,6 @@
 # RP-1 Peer Review Feedback
 
-**Score: 111/120**
+**Score: 116/120**
 
 ## Overall
 This is a strong submission. Your reviews are thoughtful, professional, and clearly aligned with the stage of the proposals you are reviewing. You do a good job summarizing the projects accurately, identifying their strongest ideas, and then shifting into feedback that is genuinely developmental rather than merely evaluative. Both reviews feel like they were written by someone trying to help the author improve the next version, which is exactly what this assignment is supposed to do.
